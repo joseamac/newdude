@@ -1,1 +1,1 @@
-# this is just a test file #
+go get http://github.com/apivideo/api.video-go-client @latest
